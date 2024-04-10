@@ -46,5 +46,5 @@ function getFontPath() {
 }
 
 function getFontName() {
-    return "jf-openhuninn-2.0";
+    return "jf-openhuninn-2.0_sub";
 }
